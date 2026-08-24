@@ -1,0 +1,29 @@
+{
+    "version": 2,
+    "rules": [
+        {
+            "domain": [
+                "analysis.chujingapp.com",
+                "prod.chujingapp.com",
+                "gp-app.chujingapp.com",
+                "cdn.chujingservice.com"
+            ],
+            "domain_suffix": [
+                "chujingservice.com",
+                "chujingapp.com",
+                "motv.app",
+                "rou.video",
+                "comeav.com",
+                "javrate.com",
+                "avjoy.me",
+                "91porn.com",
+                "njav.tv",
+                "spankbang.com",
+                "jable.tv",
+                "missav.ai",
+                "missav.ws",
+                "xclient.info"
+            ]
+        }
+    ]
+}
