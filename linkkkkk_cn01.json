@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "rules": [
+        {
+            "domain": [
+                "linkzz.cc.cd",
+                "linkjoey.linkzz.kdns.fr"
+            ],
+            "domain_suffix": [
+                "nuphyio.com"
+            ]
+        }
+    ]
+}
